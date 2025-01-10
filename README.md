@@ -81,9 +81,11 @@ The **Book Vault: Digital Library System** successfully demonstrates the practic
 
 This project is a valuable learning tool, showcasing the integration of data structure concepts with frontend technologies. It serves as an essential resource for managing small-scale libraries or personal book collections, with potential for further enhancements like database integration, user authentication, and advanced filtering capabilities.  
 
-![Screenshot 2025-01-10 213220](https://github.com/user-attachments/assets/7021d7f6-2a51-4039-a92b-6cab81a26676)
-![Screenshot 2025-01-10 213252](https://github.com/user-attachments/assets/9b2a405a-6d4d-411c-91cf-5484cc94b7a7)
-![Screenshot 2025-01-10 214514](https://github.com/user-attachments/assets/60b3c815-a9b2-4e71-82f0-991da6b39b31)
+![image](https://github.com/user-attachments/assets/652c7298-f122-4e70-bdd3-d83851393ce1)
+![image](https://github.com/user-attachments/assets/5e656385-ce68-4085-a063-ebc4a2779f57)
+![image](https://github.com/user-attachments/assets/a1c6500f-73ca-478c-84f2-b982a4db2d63)
+
+
 
 
 
