@@ -1,7 +1,7 @@
 # DSA-Project
 INTRODUCTION: The "Book Vault: Digital Library System" is a browser-based application designed to simplify and streamline library management. This project aims to address common challenges faced in organizing and accessing book records by providing an intuitive, efficient, and scalable solution. 
 
-With features like adding, storing, searching, and listing books, the system is built using modern web technologies such as HTML, CSS, and JavaScript. By leveraging data structures like hash maps for fast lookups and linear search for flexible queries, it ensures both performance and reliability. 
+With features like adding, storing, searching, and listing books, the system is built using modern web technologies such as HTML, CSS, JavaScript and Python. By leveraging data structures like hash maps for fast lookups and linear search for flexible queries, it ensures both performance and reliability. 
 
 The application is particularly suited for small libraries, educational institutions, and personal book collections, offering a user-friendly platform that eliminates the need for manual record-keeping. Its lightweight design ensures easy deployment and accessibility, making it a valuable tool for digital library management.
 
@@ -45,6 +45,9 @@ By combining robust data handling with an intuitive design, this system offers a
 
 4. Browser-Based Application 
    - Operates entirely within the browser, eliminating the need for server-side processing or external databases, making it lightweight and easily deployable.
+     
+5. Backend Technologies
+   - Python
   
 
 "Data Structures Used"
