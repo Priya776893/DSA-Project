@@ -76,10 +76,7 @@ By combining robust data handling with an intuitive design, this system offers a
    - Basic validations are implemented to prevent duplicate `book IDs` and ensure all input fields are filled before adding a book.  
    - Alerts and messages guide users, enhancing usability and minimizing errors.  
 
----
-
 "Conclusion"
-
 The **Book Vault: Digital Library System** successfully demonstrates the practical application of data structures and web technologies in solving real-world challenges related to library management. By leveraging hash maps for fast lookups and linear search for flexible querying, the system provides an efficient, user-friendly, and scalable solution.  
 
 This project is a valuable learning tool, showcasing the integration of data structure concepts with frontend technologies. It serves as an essential resource for managing small-scale libraries or personal book collections, with potential for further enhancements like database integration, user authentication, and advanced filtering capabilities.  
